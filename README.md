@@ -1,4 +1,4 @@
-# letsencrypt-s3
+# letsencrypt-s3-autopilot
 
 TODO: Short description of what this is about
 
